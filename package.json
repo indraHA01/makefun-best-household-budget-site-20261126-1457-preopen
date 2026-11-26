@@ -1,0 +1,1 @@
+{"description":"NestEgg — a household budget site. Static files under app/, handed in by main.ts.","name":"nestegg-household-budget","private":true,"scripts":{"hand-in":"mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts","serve":"node serve.ts"},"type":"module"}
